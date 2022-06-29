@@ -1,7 +1,3 @@
-<?php 
-    include 'config.php';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +10,7 @@
 </head>
 <body>
     <div class="content">
-        <p>Sorry, but the page you were trying to view does not exist. <a href="<?=HTML_ROOT;?>/">Go back to main page</a>.</p>
+        <p>Sorry, but the page you were trying to view does not exist. <a href="https://nelsontasman.federation.net.nz">Go back to main page</a>.</p>
     </div>
 </body>
 </html>
