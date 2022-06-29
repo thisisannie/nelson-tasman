@@ -26,9 +26,9 @@
         <section>
             <div class="content">
                 <h1>Kia ora</h1>
-                <p><strong>FEDERATION</strong> offer a high level of website expertise, drawing on vast knowledge in the website design and development space. No brief is the same, but we ensure the final product is needs driven, working to best practise principles to ensure each project caters to unique key objectives.</p>
-                <p>We’ve designed and developed multiple websites ranging from regional development based platforms right through to high end solutions with e-commerce functionality. While many aspects will vary across web projects, we believe your website is the heart of your brand presence and that the look and feel of your site needs to truly reflect your brand in the best and most accurate way possible.</p>
-                <p>Please take a closer look at some of our work below.</p>
+                <p class="intro"><strong>FEDERATION</strong> offer a high level of website expertise, drawing on vast knowledge in the website design and development space. No brief is the same, but we ensure the final product is needs driven, working to best practise principles to ensure each project caters to unique key objectives.</p>
+                <p class="intro">We’ve designed and developed multiple websites ranging from regional development based platforms right through to high end solutions with e-commerce functionality. While many aspects will vary across web projects, we believe your website is the heart of your brand presence and that the look and feel of your site needs to truly reflect your brand in the best and most accurate way possible.</p>
+                <p class="intro">Please take a closer look at some of our work below.</p>
             </div>            
         </section>
         <section class="pattern">
