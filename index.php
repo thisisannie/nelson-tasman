@@ -15,8 +15,13 @@
 <body>
     <div class="container">
         <header>
-            <img src="./images/placeholder-1400x606.png" alt="placeholder">
-            <caption>Federation Logo</caption>
+            <a href="https://www.nelsontasman.nz/" target="_blank">
+                <img src="./images/logos/nelson-tasman-logo.webp" alt="Nelson Tasman NZ logo" title="Nelson Tasman NZ">
+            </a>
+            <a href="https://federation.net.nz" target="_blank">
+                <img src="./images/logos/federation-logo-white.svg" alt="Federation logo" title="Federation">
+            </a>
+            <button class="arrow-down"></button>
         </header>
         <section>
             <h1>Kia ora</h1>
@@ -25,15 +30,15 @@
             <p>Please take a closer look at some of our work below.</p>
         </section>
         <section>
-            <img src="./images/placeholder-1400x606.png" alt="placeholder">
-            <h2>True Honey Co.</h2>
+            <img src="./images/the-true-honey-co.webp" alt="The True Honey Co - screenshot of website" title="The True Honey Co - screenshot of website">
+            <h2>The True Honey Co.</h2>
             <p>The True Honey Co. is a fully New Zealand owned business whose passion is premium grade Mānuka honey. With their hives located in some of the most remote locations in New Zealand, The True Honey Co. make the world’s rarest and highest rated Mānuka honey.</p>
             <p>A new ecommerce platform was required to address existing security issues, be seamlessly integrated into the European and Middle Eastern markets, and connect with different fulfilment, inventory, social and marketing backend systems. They also needed a new look and feel that aligned with their products premium status and exclusivity.</p>
             <p>We explored a range of different ecommerce options that best suited TTHC immediate needs and their future goals and settled on Shopify. Looking at existing site analytics, user testing and developed personas we redesigned and built the site from the ground up allowing us to tell the True Honey story as well as creating seamless journeys from arrival to purchase and beyond. A photoshoot was also conducted to visually demonstrate the premium offering.</p>
             <button>Visit site</button>
         </section>
         <section>
-            <img src="./images/placeholder-1400x606.png" alt="placeholder">
+            <img src="./images/auckland-invest.webp" alt="Auckland Invest - screenshot of website" title="Auckland Invest - screenshot of website">
             <h2>Auckland Invest</h2>
             <p>People are unlikely to invest if they haven’t visited or don’t know about a city or place. Auckland Invest wanted to increase the prominence of positive stories about doing business in Auckland by show people that Auckland is young and vibrant rather than telling them. This would fall in line with the wider 2021 "Opportunity is Calling" campaign.</p>
             <p>A new website was developed to help tell these stories, remove pain points from their existing website, and quickly curate content and contacts based on individual users preferences. Working with the team from AI we considered current analytics and user testing data to help create new tools and user journeys. A new look and feel including bespoke photography was implemented to help tell stories of a confident, modern and vibrant city.</p>
@@ -41,7 +46,7 @@
             <button>Visit site</button>
         </section>
         <section>
-            <img src="./images/placeholder-1400x606.png" alt="placeholder">
+            <img src="./images/orbit-world-travel.webp" alt="Orbit World Travel - screenshot of website" title="Orbit World Travel - screenshot of website">
             <h2>Orbit World Travel</h2>
             <p>Orbit World Travel is New Zealand’s largest travel management company and following a brand reposition they were in need of a new website. The refreshed website needed to:</p>
             <ul>
