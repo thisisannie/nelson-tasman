@@ -1,6 +1,6 @@
 section {
 	position: relative;
-	margin: $spacer-lg 0;
+	padding-top: $spacer-lg;
 	&.pattern {
 		&:before {
 			content: "";
@@ -16,6 +16,9 @@ section {
 		&:nth-child(2n):before {
 			transform: scaleX(-1)
 		}
+	}
+	&:last-child {
+		padding-bottom: $spacer-lg;
 	}
 }
 

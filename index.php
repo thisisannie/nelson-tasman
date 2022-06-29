@@ -15,13 +15,13 @@
 <body>
     <div class="container">
         <header>
-            <a href="https://www.nelsontasman.nz/" target="_blank">
+            <a class="logo logo-nt" href="https://www.nelsontasman.nz/" target="_blank">
                 <img src="./images/logos/nelson-tasman-logo.webp" alt="Nelson Tasman NZ logo" title="Nelson Tasman NZ">
             </a>
-            <a href="https://federation.net.nz" target="_blank">
+            <a class="logo logo-fed" href="https://federation.net.nz" target="_blank">
                 <img src="./images/logos/federation-logo-white.svg" alt="Federation logo" title="Federation">
             </a>
-            <button class="arrow-down"></button>
+            <div id="arrow-down"></div>
         </header>
         <section>
             <div class="content">
@@ -73,5 +73,6 @@
             </div>
         </section>
     </div>
+    <script src="./js/custom.js"></script>
 </body>
 </html>

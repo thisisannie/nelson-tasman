@@ -1,0 +1,32 @@
+header {
+	background-image: url(../images/banner.webp);
+	background-size: cover;
+	background-position: center bottom;
+	min-height: 100vh;
+	.logo {
+		padding: 30px;
+		display: inline-block;
+		&.logo-nt img {
+			width: 157px;
+		}
+		&.logo-fed {
+			float: right;
+			img {
+				width: 192px;
+			}
+		}
+	}
+	#arrow-down {
+    position: absolute;
+    left: calc(50% - 40px);
+    bottom: 30px;
+		width: 40px;
+    height: 40px;
+    padding: 20px;
+		background-image: url(../images/arrow-down-white.svg);
+		background-size: 30px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+	}
+}
