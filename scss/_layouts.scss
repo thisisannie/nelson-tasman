@@ -13,9 +13,13 @@ section {
 			background-image: url('../images/pattern.svg');
 			opacity: 0.4;
 			z-index: -1;
+			transition: all 1s ease;
 		}
 		&:nth-child(2n):before {
 			transform: scaleX(-1)
+		}
+		&.scrolled:before {
+			background-position: 0;
 		}
 	}
 	&:last-child {
