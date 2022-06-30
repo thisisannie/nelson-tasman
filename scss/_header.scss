@@ -6,6 +6,7 @@ header {
 	.logo {
 		padding: 30px;
 		display: inline-block;
+    filter: drop-shadow(0px 0px 9px #031d4d66);
 		&.logo-nt img {
 			width: 157px;
 		}
