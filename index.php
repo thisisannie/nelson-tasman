@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nelson Tasman</title>
     <meta name="description" content="">
-    <link rel="stylesheet" href="<?=HTML_ROOT;?>/css/styles.css">
+    <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
     <div class="container">
