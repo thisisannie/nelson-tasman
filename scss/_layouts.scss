@@ -2,6 +2,10 @@ section {
 	position: relative;
 	padding-top: $spacer-lg;
 	&.pattern {
+		position: relative;
+		top: 50px;
+		opacity: 0.3;
+		transition: all 1.5s ease;
 		&:before {
 			content: "";
 			position: absolute;
@@ -9,7 +13,7 @@ section {
 			width: 100%;
 			background-repeat: no-repeat;
 			background-size: 820px;
-			background-position: -352px 0;
+			background-position: -820px center;
 			background-image: url('../images/pattern.svg');
 			opacity: 0.4;
 			z-index: -1;
@@ -18,9 +22,14 @@ section {
 		&:nth-child(2n):before {
 			transform: scaleX(-1)
 		}
-		&.scrolled:before {
-			background-position: 0;
+		&.show {
+			opacity: 1;
+			top: 0;
+			&:before {
+				background-position: -352px 0;
+			}
 		}
+		
 	}
 	&:last-child {
 		padding-bottom: $spacer-lg;
