@@ -31,9 +31,9 @@
             <div class="content">
                 <img src="./images/the-true-honey-co.webp" alt="The True Honey Co - screenshot of website" title="The True Honey Co - screenshot of website">
                 <h2>The True Honey Co.</h2>
-                <p>The True Honey Co. is a fully New Zealand owned business whose passion is premium grade Mānuka honey. With their hives located in some of the most remote locations in New Zealand, The True Honey Co. make the world’s rarest and highest rated Mānuka honey.</p>
-                <p>A new ecommerce platform was required to address existing security issues, be seamlessly integrated into the European and Middle Eastern markets, and connect with different fulfilment, inventory, social and marketing backend systems. They also needed a new look and feel that aligned with their products premium status and exclusivity.</p>
-                <p>We explored a range of different ecommerce options that best suited TTHC. Considering their immediate needs and future goals we jointly settled on Shopify. Looking at the existing site analytics, user testing results and incorporating clear success metrics we redesigned and built the site from the ground up allowing us to tell the True Honey story as well as creating seamless journeys from arrival to purchase and beyond. A photoshoot was also conducted to visually demonstrate the premium offering.</p>
+                <p>The True Honey Co. is a 100% New Zealand owned business whose passion is premium grade Mānuka honey. With their hives located in some of the most remote locations in New Zealand, The True Honey Co. make the world’s rarest and highest rated Mānuka honey.</p>
+                <p>A new e-commerce platform was required to address existing security issues, be seamlessly integrated into the European and Middle Eastern markets, and connect with different fulfilment, inventory, social and marketing backend systems. They also needed a new look and feel that aligned with their products premium status and exclusivity.</p>
+                <p>We explored a range of different e-commerce options that best suited TTHC. Considering their immediate needs and future goals, we jointly settled on Shopify. Looking at the existing site analytics, user testing results and incorporating clear success metrics, we redesigned and built the site from the ground up, allowing us to tell the True Honey story as well as creating seamless journeys from arrival to purchase. A photoshoot was also conducted to visually demonstrate the premium offering.</p>
                 <a class="button" href="https://truehoney.co.nz/" target="_blank" title="The True Honey Co. website">Visit site</a>
             </div>            
         </section>
@@ -41,8 +41,8 @@
             <div class="content">
                 <img src="./images/auckland-invest.webp" alt="Auckland Invest - screenshot of website" title="Auckland Invest - screenshot of website">
                 <h2>Auckland Invest</h2>
-                <p>People are unlikely to invest if they haven’t visited or don’t know about a city or place. Auckland Invest wanted to increase the prominence of positive stories about doing business in Auckland by showing people that Auckland is young and vibrant rather than just telling them. This would fall in line with the wider 2021 "Opportunity is Calling" campaign.</p>
-                <p>A new website was developed to help tell these stories, remove pain points from their existing website, and quickly curate content and contacts based on individual users preferences. Working with the team from AI we considered current analytics and user testing data to help create new tools and user journeys. A new look and feel including bespoke photography was implemented to help tell stories of a confident, modern and vibrant city.</p>
+                <p>People are unlikely to invest if they haven’t visited or don’t know about a city or place. Auckland Invest wanted to increase the prominence of positive stories about doing business in Auckland by showing people that Auckland is young and vibrant, rather than just telling them. This would fall in line with the wider 2021 "Opportunity is Calling" campaign.</p>
+                <p>A new website was developed to help tell these stories, remove pain points from their existing website, and quickly curate content and contacts based on individual user preferences. Working with the team from AI we considered current analytics and user testing data to help create new tools and user journeys. A new look and feel including bespoke photography was implemented to help tell stories of a confident, modern and vibrant city.</p>
                 <p>A homepage filter system empowered users to find information that was tailored to their area of interest and quickly put them in contact with the most qualified person for their area.</p>
                 <a class="button" href="https://www.aucklandnz.com/invest" target="_blank" title="Auckland Invest website">Visit site</a>
             </div>            
@@ -51,7 +51,7 @@
             <div class="content">
                 <img src="./images/orbit-world-travel.webp" alt="Orbit World Travel - screenshot of website" title="Orbit World Travel - screenshot of website">
                 <h2>Orbit World Travel</h2>
-                <p>Orbit World Travel is New Zealand’s largest travel management company and following a brand reposition they were in need of a new website. The refreshed website needed to:</p>
+                <p>Orbit World Travel is New Zealand’s largest travel management company, and following a brand reposition they were in need of a new website which had to:</p>
                 <ul>
                     <li>Improve from a content and lead generation perspective in order to attract new business</li>
                     <li>Feel current while also market leading from a design perspective</li>
