@@ -7,10 +7,14 @@ header {
 		padding: 30px;
 		display: inline-block;
     filter: drop-shadow(0px 0px 9px #031d4d66);
-		&.logo-nt img {
-			width: 157px;
-		}
+		&.logo-nt {
+			max-width: calc(45% - 60px);
+			img {
+				width: 157px;
+			}
+		} 
 		&.logo-fed {
+			max-width: calc(55% - 60px);
 			float: right;
 			img {
 				width: 192px;
