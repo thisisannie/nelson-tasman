@@ -60,7 +60,7 @@
                 <p>To portray the "Better Business, Together" brand proposition we suggested an interactive homepage which serves a user with a custom selection of content based on their reason for visiting the site - as captured in a drop down form at the top of the homepage. This allowed Orbit to put their best foot forward when assisting every site visitor.</p>
                 <p>We used a rich approach to imagery to allow us to talk to the many facets of the Orbit business. A dynamic homepage cluster allowed us to showcase important aspects of the Orbit business while also keeping things fresh for returning website users by drawing a random mix of imagery from a curated set hosted behind the site.</p>
                 <p>With a large and complex business such as Orbit, we knew content would often need changing. News, Resources, and Our People were all sections that would require near constant updates. With this in mind, we suggested the Wordpress site be built through Beaver Builder to ensure ease of use for clients needing to execute content changes and create new pages.</p>
-                <p>Site currently embargoed.</p>
+                <p>This website is currently in a staging environment so unfortunately we're unable to share a live link at present.</p>
             </div>            
         </section>
         <section>
